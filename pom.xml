@@ -38,7 +38,7 @@
     <build>
         <plugins>
             <!--Compile-->
-            <!--同意源代码与编译输出的JDK版本-->
+            <!--同意源代码与编译输出的JDK版本1-->
             <plugin>
                 <groupId>org.apache.maven.plugins</groupId>
                 <artifactId>maven-compiler-plugin</artifactId>
